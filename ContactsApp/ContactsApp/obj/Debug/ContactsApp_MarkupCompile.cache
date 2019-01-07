@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\sirjohnnypaul\Desktop\ContactsApp\ContactsApp\obj\Debug\
+C:\Users\sirjohnnypaul\Desktop\Windows Presentation Foundation (WPF) App Collection\ContactsApp\ContactsApp\obj\Debug\
 ContactsApp
 none
 false
 DEBUG;TRACE
-C:\Users\sirjohnnypaul\Desktop\ContactsApp\ContactsApp\App.xaml
+C:\Users\sirjohnnypaul\Desktop\Windows Presentation Foundation (WPF) App Collection\ContactsApp\ContactsApp\App.xaml
 41715188866
-21142792210
+2-36740174
 104737965
-71-1217327950
+71-414133768
 Controls\ContactControl.xaml;ContactDetailsWindow.xaml;MainWindow.xaml;NewContactWindow.xaml;
 
 False
